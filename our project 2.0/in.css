@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font: arial;
+}
+.navbar{
+    height: 105px;
+    width: 100%;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border: 5px solid white;
+    border-top: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    font-size: 35px;
+}
+.lag1{
+    padding-left: 55px;
+    font-size: 35px;
+    color: white;
+}
+.lag2{
+    color: white;
+    padding-left: 55px;
+}
+.checkbox{
+    display: flex;
+}
+.checkbox2{
+
+    padding-left: 55px;
+}
